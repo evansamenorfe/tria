@@ -13,7 +13,7 @@ h1 {
     font-weight: bold;
     display: grid;
     grid-column: 2/2;
-    grid-row: 2/2;
+    grid-row: 3/5;
 }
 
 h2 {
@@ -86,7 +86,7 @@ header img {
     height: 183px;
     display: grid;
     grid-column: 1/2;
-    grid-row: 1/2;
+    grid-row: 2/4;
 }
 
 p {
