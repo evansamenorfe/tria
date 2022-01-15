@@ -14,4 +14,10 @@
         background-color: #350bf3;
         border-style: dotted;
     }
+
+    body {
+        display: flex;
+        margin:auto;
+        width: auto;
+    }
 }
