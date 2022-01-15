@@ -30,7 +30,11 @@ header {
     color: black;
     text-align: center;
     text-shadow: 10px 10px 10px black;
+    justify-content: center;
+    align-content: center;
 }
+
+
 
 body {
     display: block;

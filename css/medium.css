@@ -7,8 +7,16 @@
 
     header {
         background-color: #350bf3;
-        text-align: right;
+        text-align: center;
+        display: flex;
+        grid-template-columns: 1fr 1fr;
     }
+
+      h1{
+        padding: 60px 40px 40px 50px;
+    }
+
+
 
     footer {
         background-color: #350bf3;
