@@ -4,6 +4,10 @@ h1 {
 
 h2 {
     font-family: 'Roboto', sans-serif;
+    border-bottom: 1px solid;
+    text-shadow: 5px 5px 5px grey;
+    font-size: 1em;
+    text-align: center;
 }
 
 header {
@@ -25,4 +29,26 @@ main {
     grid-template-columns: auto;
     grid-template-rows: auto;
     font-size: 25px;
+}
+
+hr {
+    max-width: 100%;
+    margin-bottom: 50px;
+}
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
 }
