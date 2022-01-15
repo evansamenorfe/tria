@@ -8,7 +8,21 @@ h2 {
 
 header {
     display: block;
-    background-color: #097eac;
+    background-color: #00FF00;
     color: white;
     text-align: center;
+}
+footer {
+    background-color: #00FF00;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+main {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    font-size: 25px;
 }
