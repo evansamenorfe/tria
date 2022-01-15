@@ -1,2 +1,14 @@
-font-family: 'Open Sans', sans-serif;
-font-family: 'Roboto', sans-serif;
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    display: block;
+    background-color: #097eac;
+    color: white;
+    text-align: center;
+}
