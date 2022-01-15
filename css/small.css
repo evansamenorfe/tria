@@ -13,12 +13,12 @@ h2 {
 header {
     display: block;
     background-color: #00FF00;
-    color: white;
+    color: black;
     text-align: center;
 }
 footer {
     background-color: #00FF00;
-    color: white;
+    color: black;
     text-align: center;
     font-size: 15px;
     height: 50px;
