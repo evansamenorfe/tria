@@ -37,6 +37,7 @@ header {
 body {
     display: block;
     margin: 8px;
+    width: 100%;
 }
 
 footer {
