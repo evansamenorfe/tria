@@ -80,3 +80,8 @@ header img {
     aspect-ratio: auto 200 / 210;
     height: 183px;
 }
+
+p {
+    color: white;
+    font: italic;
+}
