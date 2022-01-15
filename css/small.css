@@ -52,3 +52,12 @@ hr {
     border-style: inset;
     border-width: 1px;
 }
+
+header img {
+    box-shadow: 5px 5px black;
+    margin-top: 15px;
+    border-style: none;
+    width: 200px;
+    aspect-ratio: auto 200 / 210;
+    height: 183px;
+}
