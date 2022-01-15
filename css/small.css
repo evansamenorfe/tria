@@ -55,7 +55,7 @@ hr {
 }
 
 header img {
-    box-shadow: 5px 5px black;
+    box-shadow: 5px 5px rgb(247, 245, 245);
     margin-top: 15px;
     border-style: none;
     width: 200px;
